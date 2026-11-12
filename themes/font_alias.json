@@ -1,0 +1,202 @@
+{
+  "SF Pro Rounded": [
+    "Nunito",
+    "Quicksand",
+    "Varela Round"
+  ],
+  "ui-sans-serif": [
+    "Inter",
+    "Roboto",
+    "Noto Sans"
+  ],
+  "ui-monospace": [
+    "JetBrains Mono",
+    "Fira Code",
+    "Source Code Pro"
+  ],
+  "Berkeley Mono": [
+    "JetBrains Mono",
+    "Space Mono",
+    "IBM Plex Mono"
+  ],
+  "Notion Sans": [
+    "Inter",
+    "Manrope",
+    "Work Sans"
+  ],
+  "PP Editorial Old": [
+    "EB Garamond",
+    "Cormorant Garamond",
+    "Playfair Display"
+  ],
+  "Inter": [
+    "Manrope",
+    "Work Sans",
+    "Nunito Sans"
+  ],
+  "JetBrains Mono": [
+    "Fira Code",
+    "Source Code Pro",
+    "IBM Plex Mono"
+  ],
+  "Euclid Circular A": [
+    "Inter",
+    "Nunito Sans",
+    "Work Sans"
+  ],
+  "Source Code Pro": [
+    "Fira Code",
+    "JetBrains Mono",
+    "IBM Plex Mono"
+  ],
+  "Waldenburg": [
+    "Playfair Display",
+    "Cormorant Garamond",
+    "Lora"
+  ],
+  "Wise Sans": [
+    "Inter",
+    "Work Sans",
+    "Nunito Sans"
+  ],
+  "UberMove": [
+    "Inter",
+    "Manrope",
+    "Space Grotesk"
+  ],
+  "UberMoveText": [
+    "Inter",
+    "Manrope",
+    "Space Grotesk"
+  ],
+  "SF Pro Display": [
+    "Inter",
+    "Roboto",
+    "Nunito Sans"
+  ],
+  "SF Pro Text": [
+    "Inter",
+    "Source Sans Pro",
+    "Open Sans"
+  ],
+  "BMW Type Next Latin": [
+    "Inter",
+    "Manrope",
+    "Work Sans"
+  ],
+  "IBM Plex Sans": [
+    "Inter",
+    "Source Sans 3",
+    "Work Sans"
+  ],
+  "Sentri Display": [
+    "Playfair Display",
+    "Cinzel",
+    "Bodoni Moda"
+  ],
+  "Rubik": [
+    "Nunito",
+    "Hind Siliguri",
+    "Work Sans"
+  ],
+  "Monaco": [
+    "Source Code Pro",
+    "Fira Code",
+    "JetBrains Mono"
+  ],
+  "sohne-var": [
+    "Inter",
+    "Manrope",
+    "Plus Jakarta Sans"
+  ],
+  "Kraken-Brand": [
+    "Bebas Neue",
+    "Oswald",
+    "Anton"
+  ],
+  "Kraken-Product": [
+    "Inter",
+    "Roboto",
+    "Open Sans"
+  ],
+  "PlayStation SST": [
+    "Inter",
+    "Roboto",
+    "Nunito Sans"
+  ],
+  "Helvetica": [
+    "Inter",
+    "Nunito Sans",
+    "Work Sans"
+  ],
+  "Futura": [
+    "Jost",
+    "Montserrat",
+    "Raleway"
+  ],
+  "Arial": [
+    "Arimo",
+    "Roboto",
+    "Noto Sans"
+  ],
+  "Univers": [
+    "Source Sans 3",
+    "Open Sans",
+    "IBM Plex Sans"
+  ],
+  "Gotham": [
+    "Montserrat",
+    "Nunito Sans",
+    "Poppins"
+  ],
+  "Proxima Nova": [
+    "Nunito Sans",
+    "Muli",
+    "Source Sans 3"
+  ],
+  "Avenir": [
+    "Nunito Sans",
+    "Jost",
+    "Raleway"
+  ],
+  "Akzidenz-Grotesk": [
+    "Work Sans",
+    "Inter",
+    "Space Grotesk"
+  ],
+  "Franklin Gothic": [
+    "Libre Franklin",
+    "Roboto Condensed",
+    "Oswald"
+  ],
+  "Trade Gothic": [
+    "Work Sans",
+    "Inter",
+    "Source Sans 3"
+  ],
+  "Vodafone": [
+    "Nunito",
+    "M PLUS Rounded 1c",
+    "Quicksand"
+  ],
+  "Arial Black": [
+    "Roboto Black",
+    "Montserrat Black",
+    "Oswald"
+  ],
+  "Times New Roman": [
+    "Crimson Text",
+    "Libre Baskerville",
+    "EB Garamond"
+  ],
+  "Airbnb Cereal VF": [
+    "Nunito",
+    "Quicksand",
+    "M PLUS Rounded 1c"
+  ],
+  "Cal Sans": [
+    "Inter",
+    "Manrope",
+    "Plus Jakarta Sans"
+  ]
+}

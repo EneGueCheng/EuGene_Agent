@@ -1,0 +1,80 @@
+---
+version: alpha
+name: Slack
+description: 茄紫 · 协作风 — 深茄子主色 + 奶油薰衣草渐变 + 药丸按钮 + 蓝色链接
+
+colors:
+  primary: "#4a154b"
+  primary-deep: "#481a54"
+  primary-press: "#611f69"
+  on-primary: "#ffffff"
+  ink: "#1d1d1d"
+  body-text: "#696969"
+  mute: "#696969"
+  canvas: "#ffffff"
+  canvas-cream: "#f4ede4"
+  canvas-lavender: "#f9f0ff"
+  card: "#ffffff"
+  surface-aubergine: "#4a154b"
+  hairline: "#e6e6e6"
+  hairline-strong: "#000000"
+  link: "#1264a3"
+  link-hover: "#3860be"
+  on-aubergine-mute: "#d9bdde"
+  success: "#007a5a"
+  error: "#cc4117"
+
+typography:
+  families:
+    display: ["Salesforce-Avant-Garde", "Inter", "sans-serif"]
+    ui: ["Salesforce-Sans", "Inter", "system-ui", "-apple-system", "sans-serif"]
+    mono: ["JetBrains Mono", "Fira Code", "Cascadia Code"]
+  cjk_fallback:
+    display: ["PingFang SC", "Microsoft YaHei", "Noto Sans SC"]
+    ui: ["PingFang SC", "Microsoft YaHei", "HarmonyOS Sans SC", "Noto Sans SC"]
+  scale:
+    display-xxl:
+      fontSize: 64
+      lineHeight: 1.12
+      letterSpacing: -0.768
+    display-xl:
+      fontSize: 58
+      lineHeight: 1.25
+      letterSpacing: -0.464
+    display-lg:
+      fontSize: 50
+      lineHeight: 1.12
+      letterSpacing: -0.6
+    display-md:
+      fontSize: 32
+      lineHeight: 1.25
+      letterSpacing: -0.256
+    heading-lg:
+      fontSize: 24
+      lineHeight: 1.33
+      letterSpacing: -0.096
+    heading-md:
+      fontSize: 22
+      lineHeight: 1.4
+    heading-sm:
+      fontSize: 18
+      lineHeight: 1.56
+      letterSpacing: -0.0216
+    body-lg:
+      fontSize: 18
+      lineHeight: 1.55
+      letterSpacing: -0.0216
+    body-md:
+      fontSize: 16
+      lineHeight: 1.55
+    body-sm:
+      fontSize: 14
+      lineHeight: 1.43
+    caption:
+      fontSize: 14
+      lineHeight: 1.43
+    button-md:
+      fontSize: 16
+      lineHeight: 1.38
+      letterSpacing: 0.2
+---

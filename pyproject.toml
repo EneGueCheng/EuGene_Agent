@@ -1,0 +1,26 @@
+[project]
+name = "sjtuclaw"
+description = "多层上下文对话助手"
+requires-python = ">=3.11"
+
+[tool.ruff]
+target-version = "py311"
+
+# 检查规则
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "W",   # pycodestyle warnings
+    "I",   # isort
+    "N",   # pep8-naming
+    "UP",  # pyupgrade
+]
+ignore = [
+    "E501",  # 行长度（Line too long）— 现有代码含长行
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"

@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  sjtuclaw:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sjtuclaw
+    ports:
+      - "${GATEWAY_PORT:-8080}:8080"
+    env_file:
+      - .env
+    volumes:
+      # 持久化 session、memory、自定义 skill 等数据
+      - claw_data:/app/.claw
+    restart: unless-stopped
+    # 可通过环境变量覆盖启动模式
+    # command: ["--gateway", "--port", "8080"]       # Gateway 模式（默认）
+    # command: ["--tube"]                             # Tube 模式
+
+volumes:
+  claw_data:

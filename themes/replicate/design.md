@@ -1,0 +1,85 @@
+---
+version: alpha
+name: Replicate
+description: 复刻橙 · 工业风 — 温暖奶油画布 + 热橙品牌色 + 三种字族的编辑风设计系统
+
+colors:
+  primary: "#ea2804"
+  primary-deep: "#c01f00"
+  on-primary: "#ffffff"
+  ink: "#202020"
+  body-text: "#3a3a3a"
+  charcoal: "#575757"
+  mute: "#646464"
+  ash: "#8d8d8d"
+  stone: "#bbbbbb"
+  on-dark: "#fcfcfc"
+  on-dark-mute: "rgba(252,252,252,0.72)"
+  canvas: "#f9f7f3"
+  bone: "#f3f0e8"
+  card: "#ffffff"
+  surface-dark: "#202020"
+  surface-deep: "#000000"
+  hairline: "rgba(32,32,32,0.12)"
+  hairline-strong: "#202020"
+  link: "#ea2804"
+  success: "#2b9a66"
+  link-hover: "#ea2804"
+  error: "#cc4117"
+
+typography:
+  families:
+    display: ["rb-freigeist-neue", "Bricolage Grotesque", "Migra"]
+    ui: ["basier-square", "Geist", "Inter"]
+    mono: ["JetBrains Mono", "Fira Code", "Cascadia Code"]
+  cjk_fallback:
+    display: ["PingFang SC", "Microsoft YaHei", "Noto Sans SC"]
+    ui: ["PingFang SC", "Microsoft YaHei", "HarmonyOS Sans SC", "Noto Sans SC"]
+  scale:
+    display-xxl:
+      fontSize: 128
+      lineHeight: 1.0
+      letterSpacing: -3
+    display-xl:
+      fontSize: 72
+      lineHeight: 1.0
+      letterSpacing: -1.8
+    display-lg:
+      fontSize: 48
+      lineHeight: 1.0
+      letterSpacing: -1
+    display-md:
+      fontSize: 30
+      lineHeight: 1.2
+      letterSpacing: -0.5
+    heading-lg:
+      fontSize: 38.4
+      lineHeight: 0.83
+      letterSpacing: -0.5
+    heading-md:
+      fontSize: 24
+      lineHeight: 1.33
+      letterSpacing: -0.35
+    heading-sm:
+      fontSize: 20
+      lineHeight: 1.4
+      letterSpacing: -0.3
+    body-lg:
+      fontSize: 18
+      lineHeight: 1.56
+    body-md:
+      fontSize: 16
+      lineHeight: 1.5
+    body-sm:
+      fontSize: 14
+      lineHeight: 1.43
+    caption:
+      fontSize: 12
+      lineHeight: 1.33
+    code-md:
+      fontSize: 14
+      lineHeight: 1.43
+    code-sm:
+      fontSize: 11
+      lineHeight: 1.5
+---

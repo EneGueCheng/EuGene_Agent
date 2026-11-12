@@ -1,0 +1,18 @@
+requests>=2.28.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+tavily-python>=0.7.0
+ddgs>=6.0
+
+# Desktop App 模式（原生窗口，可选）：
+# pip install pywebview  # 解封下行以启用
+# pywebview>=6.0
+
+# 可选增强：
+# pip install chardet          # 文件编码自动检测（降级方案，不装也能用）
+# pip install duckduckgo_search  # ddgs 失败时二次回退（不装也能用）
+
+# 开发工具（可选）：
+# pip install -r requirements-dev.txt
+# ruff          — Python 代码检查与格式化
+# pre-commit    — 提交前自动检查钩子

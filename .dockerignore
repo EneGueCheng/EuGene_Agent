@@ -1,0 +1,19 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+dist
+build
+*.spec
+.env.example
+.vscode
+.idea
+*.md
+!requirements.txt
+# 保留 .claw 目录的结构，但不提交运行时数据
+.claw/sessions/*
+.claw/memory/*
+.claw/data/*
+!/.claw/system_prompt.txt
+!/.claw/soul.txt

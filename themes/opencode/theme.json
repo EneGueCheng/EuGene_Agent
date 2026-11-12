@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "slug": "opencode",
+    "name": "OpenCode-design-analysis",
+    "description": "A terminal-native marketing system rendered entirely in Berkeley Mono — every word on the page, from the hero headline down to the footer fine print, is monospaced. The page itself reads like a manpage or a static-site README: warm cream canvas (`#fdfcfc`), nearly-black ink (`#201d1d`), 4px-radius rectangles for the few interactive elements, and bracketed `[+]`/`[-]` ASCII markers used as bullets. The brand's only \"visual moment\" is a single dark hero card that mocks up the OpenCode TUI itself — black background, monospaced terminal output, ASCII pipe characters, and a wordmark rendered as block-pixel ASCII. Every section sits as a hairline-bordered text block on the cream canvas with no shadows, no gradients, no decorative imagery, and no non-monospaced character anywhere in the system.",
+    "version": "alpha"
+  },
+  "colors": {
+    "primary": "#201d1d",
+    "on-primary": "#fdfcfc",
+    "ink": "#201d1d",
+    "ink-deep": "#0f0000",
+    "charcoal": "#302c2c",
+    "body": "#424245",
+    "mute": "#646262",
+    "stone": "#6e6e73",
+    "ash": "#9a9898",
+    "canvas": "#fdfcfc",
+    "surface-soft": "#f8f7f7",
+    "surface-card": "#f1eeee",
+    "surface-dark": "#201d1d",
+    "surface-dark-elevated": "#302c2c",
+    "hairline": "rgba(15,0,0,0.12)",
+    "hairline-strong": "#646262",
+    "on-dark": "#fdfcfc",
+    "on-dark-mute": "#9a9898",
+    "accent": "#007aff",
+    "accent-hover": "#0056b3",
+    "accent-active": "#004085",
+    "warning": "#ff9f0a",
+    "warning-hover": "#cc7f08",
+    "warning-active": "#995f06",
+    "danger": "#ff3b30",
+    "danger-hover": "#d70015",
+    "danger-active": "#a50011",
+    "success": "#30d158"
+  },
+  "typography": {
+    "display-xl": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "38px",
+      "fontWeight": 700,
+      "lineHeight": 1.5,
+      "letterSpacing": 0
+    },
+    "heading-md": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 700,
+      "lineHeight": 1.5,
+      "letterSpacing": 0
+    },
+    "body-md": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": 1.5,
+      "letterSpacing": 0
+    },
+    "body-strong": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 500,
+      "lineHeight": 1.5,
+      "letterSpacing": 0
+    },
+    "body-tight": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 500,
+      "lineHeight": 1,
+      "letterSpacing": 0
+    },
+    "link-md": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": 1.5,
+      "letterSpacing": 0
+    },
+    "button-md": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "16px",
+      "fontWeight": 500,
+      "lineHeight": 2,
+      "letterSpacing": 0
+    },
+    "caption-md": {
+      "fontFamily": "Berkeley Mono",
+      "fontSize": "14px",
+      "fontWeight": 400,
+      "lineHeight": 2,
+      "letterSpacing": 0
+    }
+  },
+  "rounded": {
+    "none": "0px",
+    "sm": "4px",
+    "full": "9999px"
+  },
+  "spacing": {
+    "xxs": "1px",
+    "xs": "4px",
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "xl": "24px",
+    "xxl": "32px",
+    "section": "96px"
+  }
+}

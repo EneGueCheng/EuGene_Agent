@@ -1,0 +1,80 @@
+{
+  "themes": [
+    {
+      "slug": "replicate",
+      "name": "Replicate",
+      "description": "复刻橙 · 工业风",
+      "author": "system",
+      "version": "1.0",
+      "status": "builtin"
+    },
+    {
+      "slug": "slack",
+      "name": "Slack",
+      "description": "茄紫 · 协作风",
+      "author": "system",
+      "version": "1.0",
+      "status": "builtin"
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "description": "A warm-canvas editorial interface for Anthropic's Claude product. The system anchors on a tinted cream canvas with serif display headlines, warm coral CTAs, and dark navy product surfaces (code editor mockups, model showcase cards). Brand voltage comes from the cream/coral pairing — deliberately warm and humanist where most AI brands use cool blue + slate. Type voice runs a slab-serif display (\"Copernicus\" / Tiempos Headline) for h1/h2 and a humanist sans for body. The signature Anthropic black-radial-spike mark anchors the wordmark.",
+      "author": "user",
+      "version": "alpha",
+      "status": "active",
+      "created": "2026-07-22",
+      "updated": "2026-07-22"
+    },
+    {
+      "slug": "spotify",
+      "name": "spotify",
+      "description": "Spotify's web interface is a dark, immersive music player that wraps listeners in a near-black cocoon (`#121212`, `#181818`, `#1f1f1f`) where album art and content become the primary source of color. The design philosophy is \"content-first darkness\" — the UI recedes into shadow so that music, podcas",
+      "author": "user",
+      "version": "1.0",
+      "status": "active",
+      "created": "2026-07-22",
+      "updated": "2026-07-22"
+    },
+    {
+      "slug": "ollama",
+      "name": "Ollama",
+      "description": "An almost defiantly minimal documentation-first system that treats the home page like a Markdown README — paper-white canvas, 36px center-aligned heading, a single black pill CTA, an inline terminal install snippet, and a hand-drawn llama mascot as the only ornamental element. No gradient, no hero photography, no marketing pyrotechnics. The chrome is a tiny utility palette of pure black, pure white, and three neutral grays; every interactive element is fully rounded into a pill (`{rounded.full}`); typography is SF Pro Rounded for headings paired with system sans for body and ui-monospace for code. Pricing tiers, FAQs, and \"your data stays yours\" guarantees all sit on the same flat canvas inside thin-border cards — the system is the documentation, and the documentation is the system.",
+      "author": "user",
+      "version": "alpha",
+      "status": "active",
+      "created": "2026-07-22",
+      "updated": "2026-07-22"
+    },
+    {
+      "slug": "opencode",
+      "name": "OpenCode",
+      "description": "A terminal-native marketing system rendered entirely in Berkeley Mono — every word on the page, from the hero headline down to the footer fine print, is monospaced. The page itself reads like a manpage or a static-site README: warm cream canvas (`#fdfcfc`), nearly-black ink (`#201d1d`), 4px-radius rectangles for the few interactive elements, and bracketed `[+]`/`[-]` ASCII markers used as bullets. The brand's only \"visual moment\" is a single dark hero card that mocks up the OpenCode TUI itself — black background, monospaced terminal output, ASCII pipe characters, and a wordmark rendered as block-pixel ASCII. Every section sits as a hairline-bordered text block on the cream canvas with no shadows, no gradients, no decorative imagery, and no non-monospaced character anywhere in the system.",
+      "author": "user",
+      "version": "alpha",
+      "status": "active",
+      "created": "2026-07-22",
+      "updated": "2026-07-22"
+    },
+    {
+      "slug": "mistral-ai",
+      "name": "Mistral-AI",
+      "description": "Mistral AI brands itself with a singular signature — atmospheric sunset gradients (mustard, orange, deep red) layered over photography of mountains, plus a horizontal \"sunset stripe\" bar that closes every page. The system pairs warm cream-yellow surfaces ({colors.cream}) with a saturated orange primary CTA ({colors.primary}) and uses an elegant near-serif voice for hero displays. Coverage spans homepage (Frontier AI hero), Le Studio product page, Coding solutions, news article surfaces, contact form, and services tier page — all anchored by the signature gradient closing band.",
+      "author": "user",
+      "version": "alpha",
+      "status": "active",
+      "created": "2026-07-28",
+      "updated": "2026-07-28"
+    },
+    {
+      "slug": "dell-1996-inspired",
+      "name": "Dell 1996 Inspired",
+      "description": "An inspired interpretation of Dell.com's 1996 design language — a catalog-era enterprise web design built around a literal black page frame, vivid flat color-block \"ribbon cards\" tinted in sage, salmon, periwinkle, sky, peach and lime, chunky Helvetica-Black display titles, Times Roman body copy, and an entire visual vocabulary of pre-Photoshop hand-cut GIF stickers (NEW! bursts, award seals, beveled product photos).",
+      "author": "user",
+      "version": "alpha",
+      "status": "active",
+      "created": "2026-08-04",
+      "updated": "2026-08-04"
+    }
+  ]
+}
